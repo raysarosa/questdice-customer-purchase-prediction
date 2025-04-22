@@ -11,7 +11,7 @@ A board game company wants to launch a new product. Based on data collected from
 
 ## 🧰 Tools & Technologies
 - Python (Pandas, NumPy, Scikit-learn)
-- Jupyter Notebook
+- Notebook
 - Classification Models:
   - Random Forest
   - Gradient Boosting
@@ -22,10 +22,8 @@ A board game company wants to launch a new product. Based on data collected from
 - Model Stacking (Meta-model: Random Forest)
 - Evaluation Metric: **F1-score**
 
-## 🗂 Files Included
-- `DSML202324_Predictive_Group18_Notebook_3.ipynb` — Complete notebook with code, training, and evaluation
-- `QuestDice Project Report.pdf` — Final written report
-- `QuestDice Project Presentation.pdf` — Summary slides for presentation
+## 🗂 File Included
+- `DSML202324_Predictive_Group18_Notebook.ipynb` — Complete notebook with code, training and evaluation
 
 ## 🧪 Results
 - Best model: Stacking Classifier
